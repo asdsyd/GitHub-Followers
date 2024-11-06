@@ -1,6 +1,12 @@
 # GitHub-Followers
 
 ## This project fetches a list of followers from a GitHub username via a network call and allows the user to set and persist a favorite GitHub user.
+- 100% Programmatic UI
+- One complete app
+- No 3rd party libraries
+- Updated for iOS 15, 16 & iOS 17
+
+### Thanks to Sean Allen for an amazing course on UIKit! 
 
 ## Requirements
 Latest Xcode
